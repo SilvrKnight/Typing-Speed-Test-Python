@@ -20,7 +20,7 @@ The Speed Typing Test is a Python program that allows users to test their typing
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your_username/speed-typing-test.git
+   git clone [https://github.com/your_username/speed-typing-test.git
    ```
 
 2. Navigate to the project directory:
